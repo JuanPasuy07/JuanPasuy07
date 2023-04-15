@@ -19,10 +19,11 @@
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
-          <a href="https://github.com/search?q=user%3AJuanPasuy07+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AJuanPasuy07+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AJuanPasuy07+language%3Akotlin"><img alt="Kotlin" src="https://custom-icon-badges.demolab.com/badge/Kotlin-FF6D00.svg?logo=kotlin&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AJuanPasuy07+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AJuanPasuy07+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AJuanPasuy07+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  
   </p>
   
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -46,17 +47,9 @@
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+      <a href="#"><img alt="Sourcetree" src="https://img.shields.io/badge/-Sourcetree-304FFE?logo=sourcetree&logoColor=white"></a>
   </p>
   </details>
   
   
- <details> 
-  <summary><h2>⚙️ &nbsp;GitHub Analytics</h2></summary>
-
-<p align="center">
-<a href="https://github.com/JuanPasuy07">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanPasuy07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanPasuy07&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-</details>
+ 
