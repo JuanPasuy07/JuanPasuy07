@@ -1,16 +1,62 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi, Juan Pasuy 👋</h1>
+</div>
+<div align="center">
+ <img src="">
+</div>
 
-<!--
-**JuanPasuy07/JuanPasuy07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 📲 Mobile Junior Developer.
+- 📝 I am a Junior Android Developer with experience in financial application development using Java. 
+- 📍  I live in Ocaña, Norte Santander. 
+- 🧮 I'm currently learning Kotlin and Arquitecture MVVM. 
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details> 
+  <summary><h2>🛠️ My Skills</h2></summary>
+
+  <h3>👨‍💻 Programming and Markup Languages</h3>
+
+  <p>
+          <a href="https://github.com/search?q=user%3AJuanPasuy07+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AJuanPasuy07+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AJuanPasuy07+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AJuanPasuy07+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  </p>
+  
+  <h3>🗄️ Databases and Cloud Hosting</h3>
+
+  <p>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+  </p>
+
+  <h3>💻 Software and Tools</h3>
+
+  <p>
+      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+      <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>  
+      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+      <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
+      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  </p>
+  </details>
+  
+  
+ <details> 
+  <summary><h2>⚙️ &nbsp;GitHub Analytics</h2></summary>
+
+<p align="center">
+<a href="https://github.com/JuanPasuy07">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanPasuy07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanPasuy07&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+</details>
