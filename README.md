@@ -1,5 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=700&size=30&pause=1000&color=F7F7F7&background=58FF0000&center=true&width=900&height=80&lines=Hi%2C+I'm+Juan+Pasuy;Junior+Android+Developer)](https://git.io/typing-svg)
+
 # 💫 About Me:
 <br>- 📲 Mobile Junior Developer.<br>- 📝 I am a Junior Android Developer with experience in financial application development using Java. <br>- 📍  I live in Ocaña, Norte Santander. <br>- 🧮 I'm currently learning Kotlin and Arquitecture MVVM. 
 <br>
