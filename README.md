@@ -50,10 +50,6 @@
   </p>
   </details>
 
- ### 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JuanPasuy07&theme=github-compact)](https://github.com/JuanPasuy07/github-readme-activity-graph)
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JuanPasuy07&no-frame=true)
 
