@@ -52,7 +52,6 @@
 - 🥅 Others:
 
     ![RxJava](https://img.shields.io/badge/RxJava-FF4081?style=for-the-badge&logo=reactivex&logoColor=white)
-    ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
     ![Android Studio Plugins](https://img.shields.io/badge/Android%20Studio%20Plugins-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
     ![Dagger 2](https://img.shields.io/badge/Dagger%202-FF6F00?style=for-the-badge&logo=android&logoColor=white)
     ![MVVM Architecture](https://img.shields.io/badge/MVVM%20Architecture-FF2D20?style=for-the-badge&logo=android&logoColor=white)
