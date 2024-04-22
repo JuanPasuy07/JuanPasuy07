@@ -62,8 +62,6 @@
 </p>
 <br> 
 
----
-
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
@@ -71,6 +69,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
 <h1>
     <a href="">
-        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=JuanPasuy07&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPasuy07&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=JuanPasuy07&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+	<img align="" height='130px'  />
     </a>
 </h1>
